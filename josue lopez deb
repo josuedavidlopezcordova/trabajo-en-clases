@@ -1,0 +1,18 @@
+#el objetivo es mejorar las abilidades mediante programacion
+a= 2+6
+t=5.98-8.21
+o= 5*5
+fl=3.22/4.45
+print(a, t, o, fl)#Se imprimen todas las variables
+#Este codigo es para realizar operaciones sencillas
+#ejercicio 2
+nombre= "Josue David Lopez Cordova"
+b= len(nombre)
+print(nombre, b)
+#crea la variable de mi nombre completo y cuantas caracteres tiene
+#Ejercicio 3
+c=7
+w=7.8
+y= float(c)
+l= int(w)
+print(c, w, y, l)
